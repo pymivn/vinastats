@@ -2,6 +2,8 @@
 Khám phá các sự thật ở Việt Nam với thống kê và số liệu từ [tổng cục thống kê
 Việt Nam](http://www.gso.gov.vn/Default.aspx?tabid=706&ItemID=13412)
 
+![Các tỉnh có diện tích lớn nhất Việt Nam](area.png)
+
 Trả lời những câu hỏi như
 
 - Tỉnh là có diện tích lớn nhất/ nhỏ nhất Việt Nam?
